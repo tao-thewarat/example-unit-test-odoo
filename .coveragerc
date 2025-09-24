@@ -1,0 +1,7 @@
+[run]
+branch = True
+omit =
+    */__init__.py
+    */__manifest__.py
+    */tests/*
+disable_warnings = no-data-collected
